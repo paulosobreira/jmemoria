@@ -1,1 +1,1 @@
-java -cp .:lib/* java br.nnpe.memoria.MemoriaMain
+java -cp .:lib/*;bin java br.nnpe.memoria.MemoriaMain
