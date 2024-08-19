@@ -1,1 +1,1 @@
-java -cp .:lib/*;bin java br.nnpe.memoria.MemoriaMain
+java -jar target\jmemoria-jar-with-dependencies.jar

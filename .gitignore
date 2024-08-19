@@ -1,12 +1,4 @@
-/Carta.class
-/MemoriaMain$1.class
-/MemoriaMain$2.class
-/MemoriaMain$3.class
-/MemoriaMain$4.class
-/MemoriaMain$5.class
-/MemoriaMain$6.class
-/MemoriaMain$7.class
-/MemoriaMain$8.class
-/MemoriaMain$9.class
-/MemoriaMain.class
 /bin/
+target
+.settings
+.idea
